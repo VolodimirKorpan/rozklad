@@ -3,7 +3,7 @@ import telebot
 import openpyxl
 import datetime
 
-bot = telebot.TeleBot('989807413:AAFRhjPGxNGEStTUjmNTsfEyRL3dc3pETSM')
+bot = telebot.TeleBot('API')
 
 
 def get_rozklad():
